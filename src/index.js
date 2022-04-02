@@ -30,7 +30,7 @@ export default class App extends Component {
     }
     return (
       <div>
-        <Spinner />
+        <Spinner message="Please accept the location request" />
       </div>
     );
   }
