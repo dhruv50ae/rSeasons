@@ -3,7 +3,9 @@
 - The idea for this app came from BBC Weather. The app was designed to take the user's latitude and current month to determine if it's summer or winter. 
 ## Images
 
-IMAGE HERE
+<img src = "https://cdn.discordapp.com/attachments/229247596571525120/972947086364524595/unknown.png" />
+<img src = "https://cdn.discordapp.com/attachments/229247596571525120/972947027468116029/unknown.png" />
+
 ## Description
 
 - Used windows APIs
